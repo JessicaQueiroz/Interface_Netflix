@@ -141,5 +141,6 @@
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toStartOf="@+id/textView5"
         app:layout_constraintStart_toEndOf="@+id/textView4"
-        tools:layout_editor_absoluteY="428dp" />
+        tools:layout_editor_absoluteY="428dp"
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
