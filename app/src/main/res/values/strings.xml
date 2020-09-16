@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Interface Netflix</string>
+    <string name="menu_mensagem">Menu Mensagem</string>
+    <string name="menu_avaliacao">Menu Avaliação</string>
+    <string name="menu_volume">Menu Volume</string>
+    <string name="menu_episodios">Menu Episódios</string>
+    <string name="house_card">House of Cards</string>
+    <string name="s1_e2">S1 E2</string>
 </resources>
